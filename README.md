@@ -191,7 +191,9 @@ MIT
 
 ## Contact
 
-Need help integrating this MCP server into your workflow? Reach out at **[prasad@chainscorelabs.com](mailto:prasad@chainscorelabs.com)**.
-We help companies build agentic workflows seemlessly that saves time and money.
+Need help integrating MCP servers into your workflow? Reach out at **[prasad@inferensys.com](mailto:prasad@inferensys.com)**.
+We help companies build agentic workflows seemlessly that saves time and operational cost.
 
-Built by [Chainscore](https://github.com/Chainscore).
+![Stallion cover](https://raw.githubusercontent.com/Inferensys/stallion/refs/heads/main/docs/inferensys.svg)
+
+Built by [Inferensys](https://github.com/inferensys). Contact Us: https://inferensys.com/contact
